@@ -1,0 +1,816 @@
+.div1{
+  margin-left: 764px;
+
+}
+
+.bio{
+
+  height: 486px;
+
+
+}
+
+.bg-primary {
+  background-color: #1039957d!important;
+}
+
+.row1{
+  background-image: url(pic1.jpeg) ;
+  background-size:100%;
+  background-repeat: no-repeat;
+
+}
+
+.NavP{
+
+  margin-left: 20px;
+  font-family: Lucida Console;
+  font-size: 21px;
+  font-weight: bold;
+  color: black !important;
+
+}
+
+.home{
+
+  margin-left: -58px;
+  color: gold;
+  font-family: inherit;
+  font-size: 18px;
+  color: black !important;
+  font-style: italic;
+ 
+
+}
+  
+
+
+.home:hover{
+
+  color: red impoetant!; 
+  background-color: yellowgreen;
+  Box-shadow: 1px 1px black;
+  border-radius: 50px;
+  font-weight: bold;
+ 
+
+}
+
+
+
+.PI{
+  border: 1px solid #ced4da ;
+  margin-left: 15px;
+  width: 355px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  color: #e7ecf1;
+  background-color: rgb(8 0 0);
+  font-family: monospace;
+  width: 29.333333% !important;
+
+
+}
+
+.Body{
+
+  background-image: url(bg1.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.Box1{
+
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+
+  
+
+}
+
+
+.CM{
+
+  border: 1px solid #ced4da ;
+  margin-left: 61px;
+  width: 355px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 35px;
+  color: #e7ecf1;
+  background-color: rgb(8 0 0);
+  font-family: monospace;
+
+}
+
+
+.Add{
+  border: 1px solid #ced4da ;
+  margin-left: 50px;
+  width: 355px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  color: #e7ecf1;
+  background-color: rgb(8 0 0);
+  font-family: monospace;
+
+
+}
+
+
+.q{
+
+  color: gold;
+  font-size: 20px;
+  padding-bottom: 0px;
+  margin-top: -38px;
+  margin-left: 58px;
+}
+
+.SCC{
+
+  height: 247px;
+  background-color: #00000094;
+  padding: 20px;
+  background-color: #38bfbf54;
+  border: 2px solid red;
+  margin-right: 17px;
+  width: 434px; 
+}
+
+.AM{
+
+  margin: 17px;
+  /* margin-left: 125px; */
+  font-size: 17px !important;
+  /* border-color: #6c757d; */
+  margin-left: 545px !important; 
+  border-color: gold !important;
+  color: #0e0c0e !important;
+  background-color: #91ff0061 !important;
+
+
+  
+}
+#MS{
+  width: 223px;
+  font-size: 20px;
+  margin-left: 548px;
+  border-color: gold !important;
+  color: #0e0c0e !important;
+  background-color: #91ff0061 !important;
+}
+
+#E{
+  font-size: 17px;
+  border-color: #6c757d;
+  border-color: #0d6efd;
+  border-color: gold !important;
+  color: #0e0c0e !important;
+  background-color: #91ff0061 !important;
+
+}
+
+.ABM{
+
+  text-align: center;
+  color: gold;
+  font-family: 'Times New Roman', Times, serif ;
+  margin-top: -46px !important;
+}
+
+.college{
+
+  height: 137px;
+  width: 289px;
+  margin: -3px;
+  padding: 12px; 
+
+  box-shadow: 5px 5px black;
+  border: 6px solid #060101;
+
+  height: 150px;
+  margin-top: 0px;
+}
+
+.colleges{
+
+  height: 137px;
+  width: 289px;
+  margin: -3px;
+  padding: 12px; 
+  box-shadow: 5px 5px black;
+  border: 6px solid #060101;
+  height: 161px;
+  margin-top: 0px;
+  height: 162px !important;
+  margin-top: 17px !important;
+}
+
+.one{
+  height: 219px;background-color: #00000094; padding: 20px;
+          background-color: #38bfbf54;
+          border: 2px solid red;
+          margin-right: 17px;
+          width: 434px;
+}
+
+.tech{
+
+  padding: 20px !important;
+  background-color: #00000094 !important;
+  border: 2px solid red !important;
+  margin-right: 17px !important;
+  width: 661px !important; 
+}
+
+.pro{
+  padding: 20px !important;
+  background-color: #00000094 !important; 
+  border: 2px solid red !important;
+  margin-right: 17px !important;
+  width: 661px !important;
+}
+
+
+.SSC{
+
+  width: 1196px;
+  height: 350px;
+  margin-left: 76px;
+  
+}
+
+* {
+    
+    box-sizing: border-box;
+}
+
+.skill-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill-container .skill {
+    position: relative;
+    margin-right: 40px;
+}
+
+.skill-container .skill .outer {
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    padding: 20px;
+    box-shadow: 6px 6px 10px -1px rgba(0 0 0 /.15),
+        -6px -6px 10px -1px rgba(255 255 255 / .7);
+}
+
+.skill-container .skill .outer .inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    box-shadow: inset 4px 4px 6px -1px rgba(0 0 0/ .2),
+        inset -4px -4px 6px -1px rgba(255 255 255 / .7),
+        -.5px -.5px 0px rgba(255 255 255 / 1),
+        .5px .5px 0px rgba(0 0 0 /.15),
+        0px 12px 10px -10px rgba(0 0 0 / 0.05);
+}
+
+.skill-container .skill .outer .inner .number {
+    font-weight: 800;
+}
+
+
+.skill-container .skill:nth-child(1) .outer .inner .number {
+    color: #f75023;
+}
+
+.skill-container .skill:nth-child(2) .outer .inner .number {
+    color: #4fa0ff;
+}
+
+.skill-container .skill:nth-child(3) .outer .inner .number {
+    color: #7811f7
+}
+
+circle {
+    fill: none;
+    stroke-width: 20px;
+    stroke-dasharray: 472;
+    stroke-dashoffset: 472;
+    transition: 2s linear;
+}
+
+svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.skill-container .skill:nth-child(1) circle {
+    stroke: #f75023;
+}
+
+.skill-container .skill:nth-child(2) circle {
+    stroke: #4fa0ff;
+}
+
+.skill-container .skill:nth-child(3) circle {
+    stroke: #7811f7;
+}
+
+.os{
+
+background-color: aqua ;
+
+}
+
+.box123{
+  color: gold;
+  box-shadow: 5px 5px black;
+  border: 6px solid #060101;
+  margin-left:95px;
+  margin-top: 20px
+
+}
+
+.H1F{
+  font-family: emoji;
+  font-size: 44px;
+}
+
+.H2F{
+  font-family: emoji;
+  font-size: 22px;
+}
+
+.H3F{
+  font-family: emoji;
+  font-size: 23px;
+}
+
+
+.Tskill{
+  padding: 20px;
+  background-color: #00000094;
+  border: 2px solid red;
+  margin-right: 17px;
+  width: 661px;
+}
+
+.atos{
+
+  height: 219px;background-color: #00000094; padding: 20px;
+          background-color: #38bfbf54;
+          border: 2px solid red;
+          margin-right: 17px;
+          width: 434px;
+}
+
+
+#h6{
+
+  color: whitesmoke; font-size: 15px; font-weight: bolder;
+
+}
+
+#Div12{
+
+  margin-top: 35px;
+}
+
+#toggle{
+
+  border-radius: 1em; background-color: #58b4f7 !important
+}
+
+#Pan{
+
+  margin-left: 20px
+}
+
+#Navhome{
+
+  margin-left:-117px; width: 68px; text-align: center;
+}
+
+#Navedu{
+
+  margin-right: 52px;
+  margin-left: -111px;
+}
+
+#NavSkill{
+width: 52px;
+}
+
+#Navexp{
+
+  margin-left: -15px
+}
+
+#Navcont{
+
+  margin-left: -4px;
+}
+
+#Fin1{
+  color: white; font-size: 30px; padding-top: 23px; margin-bottom: 47px
+
+}
+
+
+
+@media  screen and (max-width: 600px) and (min-width: 320px) {
+
+.mnavbar{
+  width: 936px;
+}
+
+.mabout{
+
+  border-color: gold !important;
+  color: #0e0c0e !important;
+  background-color: #91ff0061 !important;
+  margin-left: 309px !important;
+  margin-top: 29px !important;
+  margin-bottom: -25px;
+}
+
+.Medu{
+
+  font-size: 17px;
+  border-color: #6c757d;
+  border-color: #0d6efd;
+  border-color: gold !important;
+  color: #0e0c0e !important;
+  background-color: #91ff0061 !important;
+  margin: 4px !important;
+  margin-top: -62px !important;
+  margin-left: 426px  !important;
+}
+
+.Mwido{
+
+  width: 213px;
+  font-size: 20px;
+  margin-left: 548px;
+  border-color: gold !important;
+  color: #0e0c0e !important;
+  background-color: #91ff0061 !important;
+  margin-left: 306px !important;
+  margin-top: 8px;
+
+}
+
+
+.MABM{
+  text-align: center;
+  color: gold;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 337px;
+  width: 150px;
+  margin-top: -43px !important;
+  font-weight: bold !important;
+
+}
+
+
+.MPI{
+
+    width: 868px !important;
+    margin-left: 27px !important;
+    margin-bottom: 10px;
+}
+
+.MPIA{
+  width: 862px  !important;
+  height: 168px  !important;
+  margin-left: 33px !important;
+}
+
+.MEducation{
+
+  text-align: center;
+  color: gold;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 21px !important;
+  margin-left: 255px !important;
+  font-weight: bold;
+}
+
+.Mtoggler{
+  
+  margin-left: -313px;
+}
+
+
+.MNavp{
+
+  font-family: cursive !important;
+  font-weight: bold !important;
+  color: #5a1212!important;
+  animation: light 5s infinite !important;
+  font-size: 35px !important;
+  margin-bottom: -6px !important;
+  margin-left: -62px !important;
+}
+
+
+
+.glow {
+  font-size: 40px;
+  color: #5a1212 !important;
+  text-align: center;
+  animation: move 2s ease-in-out infinite alternate;
+  margin-top: -9px;
+
+}
+
+@keyframes move {
+  from {
+    text-shadow: 0 0 10px rgb(221, 138, 138), 0 0 20px rgb(185, 22, 22), 0 0 30px #0eb41c, 0 0 40px #bfd310, 0 0 50px #5713c4, 0 0 60px #331323, 0 0 70px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+
+
+
+
+.Mbody{
+
+  width: 668px !important;
+}
+
+
+
+.Mcon{
+
+  width: 838px !important;
+  margin: 22px;
+}
+
+.Mcollege{
+  margin-left: 18px;
+  height: 122px;
+  width: 142px;
+}
+
+.Mboxcollege{
+
+  margin-left: 166px !important;
+  width: 634px;
+  height: 121px;
+  margin-left: 162px;
+  margin-top: -2px;
+}
+
+
+.Mhif{
+  font-family: emoji;
+  font-size: 37px;
+}
+
+.MH2F{
+
+  font-family: emoji;
+  font-size: 21px;
+  margin-top: -6px;
+}
+
+.MH3F{
+
+  font-family: emoji;
+  font-size: 24px;
+  margin-top: -11px;
+}
+
+.Msvg{
+
+    margin-left: 18px;
+    width: 142px;
+    height: 122px !important;
+    margin-top: -8px !important;
+}
+
+.MScho{
+
+  margin-left: 166px;
+  height: 121px;
+  margin-top: -166px !important;
+}
+
+.MABMW{
+
+  text-align: center;
+  color: gold;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: -35px !important;
+  margin-left: 240px  !important;
+  font-weight: bold;
+}
+
+
+.MSSC{
+  height: 247px;
+  padding: 20px;
+  background-color: #38bfbf54;
+  border: 2px solid red;
+  margin-right: 17px;
+  width: 435px;
+  margin-bottom: 35px;
+}
+
+.Matos{
+
+  height: 248px;
+  background-color: #00000094;
+  padding: 20px;
+  background-color: #38bfbf54;
+  border: 2px solid red;
+  margin-left: 440px;
+  width: 458px;
+  margin-top: -280px;
+}
+
+.Mone{
+
+  height: 219px;
+  
+  padding: 20px;
+  background-color: #38bfbf54;
+  border: 2px solid red;
+  margin-right: 17px;
+  width: 898px;
+  margin-top: 11px;
+
+}
+
+.Mmyskill{
+  text-align: center;
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 52px !important;
+    margin-left: 229px;
+    font-weight: bold;
+}
+
+.Mtech{
+  padding: 20px !important;
+  background-color: #00000094 !important;
+  border: 2px solid red !important;
+  margin-right: 37px !important;
+  width: 883px  !important;
+  margin-left: 23px !important;
+  margin-bottom: 18px !important;
+}
+
+.Mpro{
+
+  padding: 20px !important;
+  background-color: #00000094 !important;
+  border: 2px solid red !important;
+  margin-right: 16px !important ;
+  width: 878px !important;
+  margin-left: 24px !important;
+}
+.Mak{
+
+    text-align: center;
+    color: #4cfb04 !important;
+    font-family: cursive;
+    margin-top: -49px !important;
+    margin-left: 199px;
+    font-weight: bold !important;
+}
+
+.Mhome{
+
+  margin-left: -764px !important;
+  width: 68px !important;
+  text-align: center !important;
+  margin-bottom: -228px !important;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
